@@ -9,4 +9,5 @@ struct structure_tag {
     .
     .
     .
-};  struct_tag is 
+};  struct_tag is label of the structure, can also conten structure type as a memeber whwn creating sturcture cpp will not allocate mimory to structure, memory will be alocated when object of struct type ic intialized 
+syntx: struct <Tag> <idf>
